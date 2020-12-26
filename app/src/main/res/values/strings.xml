@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FileTransfer</string>
+    <string name="title_activity_qrcode">QRcode</string>
+    <string name="title_activity_bluetooth_settings">BluetoothSettings</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_chat2">ChatActivity2</string>
+</resources>
